@@ -1,0 +1,541 @@
+repo_name: Tisha211/swiper-website
+report_id: ccbbf2b8a8c37fa015cca8f076d06cbe
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-10T19:21:51+00:00'
+requested_by: nolimits4web
+provider: github
+branch: master
+detected_tools_count: 40
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Tisha211/swiper-website
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Tisha211/swiper-website
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 4.3.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2021-07-05 15:06:32.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 13.4.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2018-01-20 09:59:32.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2018-01-20 09:59:32.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2018-01-20 09:59:32.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-20 15:17:34.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2018-01-20 09:59:32.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2018-01-20 09:59:32.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Tisha211/swiper-website
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/.github/workflows/build.yml
+  detection_source: ".github/workflows/build.yml"
+  last_updated_by: Vlad
+  last_updated_on: 2021-09-12 11:24:09.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.8.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-02 12:31:51.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2018-01-20 09:59:32.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: "@mdx-js/react"
+  description: React implementation for MDX
+  package_url: https://www.npmjs.com/@mdx-js/react
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17624/default_61a119a7701a0e8224ca0e4dce7ff951cd67972f.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-20 15:17:34.000000000 Z
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.5.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.18.48
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-04 15:38:37.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 19.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-02 12:31:51.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 13.4.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-02 12:31:51.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-02 12:31:51.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.27.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-02 12:31:51.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-02 12:31:51.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.32.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-20 15:17:34.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-20 15:17:34.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 11.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: globby
+  description: User-friendly glob matching
+  package_url: https://www.npmjs.com/globby
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-04 15:38:37.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-20 15:17:34.000000000 Z
+- name: rehype-stringify
+  description: Rehype plugin to serialize HTML
+  package_url: https://www.npmjs.com/rehype-stringify
+  version: 9.0.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-04 13:55:33.000000000 Z
+- name: remark
+  description: Markdown processor powered by plugins
+  package_url: https://www.npmjs.com/remark
+  version: 14.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-28 10:02:06.000000000 Z
+- name: remark-gfm
+  description: Remark plugin to support GFM
+  package_url: https://www.npmjs.com/remark-gfm
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-28 10:02:06.000000000 Z
+- name: remark-parse
+  description: Remark plugin to parse Markdown
+  package_url: https://www.npmjs.com/remark-parse
+  version: 10.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17485/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-28 10:02:06.000000000 Z
+- name: remark-rehype
+  description: Remark plugin that turns markdown into HTML to support rehype
+  package_url: https://www.npmjs.com/remark-rehype
+  version: 10.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-28 10:02:06.000000000 Z
+- name: swiper
+  description: Most modern mobile touch slider and framework with hardware accelerated
+    transitions
+  package_url: https://www.npmjs.com/swiper
+  version: 11.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17656/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-11-22 12:53:46.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.21.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
+- name: unified
+  description: Interface for processing text using syntax trees
+  package_url: https://www.npmjs.com/unified
+  version: 10.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17259/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: https://github.com/Tisha211/swiper-website/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Vladimir Kharlampidi
+  last_updated_on: 2023-06-01 18:01:06.000000000 Z
